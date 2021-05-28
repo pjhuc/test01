@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users id="root_users">
+   <user1 id="node1-1">
+       <name>zhangsan</name>
+       <password>111111</password>
+   </user1>
+   <user2 id="node2-2">
+       <name>wangwu</name>
+       <password>22222</password>
+   </user2>
+   <user3 id="node3-3">
+       <name>lis</name>
+       <password>33333</password>
+   </user3>
+</users>
