@@ -1,8 +1,6 @@
-package main.pjhuc01.test18_reflect.test;
+package main.demo.test18_reflect.test;
 
-import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 public class Test_18 {
@@ -50,4 +48,5 @@ public class Test_18 {
         Test_18 test_18 = new Test_18();
         test_18.test(new Student());
     }
+
 }

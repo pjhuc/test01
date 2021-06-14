@@ -11,7 +11,7 @@ interface Subject{
 class RealSubject implements Subject{
     @Override
     public void doWork() {
-    
+        System.out.println("实际的doWork方法");
     }
 }
 class RealSubjectProxy implements Subject{
